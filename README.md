@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently corking with MERN<br>I am  looking for job/internship <br> new day, new  thing ,something new to learn <br>every one can do ,as I do
+ I am currently working with MERN<br>I am  looking for job/internship <br> new day, new  thing ,something new to learn <br>every one can do ,as I do
 
 
 ## 🌐 Socials:
