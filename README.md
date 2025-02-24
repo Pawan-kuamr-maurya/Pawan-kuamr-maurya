@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am currently working with MERN<br>I am  looking for job/internship <br> new day, new  thing ,something new to learn <br>every one can do ,as I do
+Currently working with the MERN stack to enhance my development skills.<br>Actively seeking job or internship opportunities to apply my knowledge. <br>Every new day presents an opportunity to learn something new and grow.<br> Believe that with dedication, anyone can achieve what I am working towards
 
 
 ## 🌐 Socials:
